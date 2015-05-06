@@ -1,0 +1,663 @@
+Standard query 0x3dc0  A dht.transmissionbt.com
+	dht.transmissionbt.com: type A, class IN, addr 212.129.33.50
+		get_peers: no reply
+		find_node:
+			Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+				find_node:
+					Node 1 (id: 925b8897af186682066c9edc25239e807eecc6fd, IP/Port: 95.239.2.118:55643)
+						find_node: no reply
+					Node 2 (id: 97e83a6ca6a136e392d709371dc3224a21e0a633, IP/Port: 83.162.164.103:6881)
+						find_node: no reply
+					Node 3 (id: 9cfd6aa83f21b7b7219263f7d55e8922bab6a925, IP/Port: 5.49.238.160:37366)
+						find_node: no reply
+					Node 4 (id: 8245575ff791a25b64d24d8d0e9a1cc64ad41b4c, IP/Port: 192.241.225.195:51413)
+						find_node: 
+							Node 1 (id: 92d009686d2242d3176f87ea05fc1f069c6f84f1, IP/Port: 185.34.3.244:10171)
+								find_node:
+									Node 1 (id: 900705b03b6d16a363e259b008bd2ecc83a392cf, IP/Port: 118.163.221.141:6881)
+										find_node: no reply
+									Node 2 (id: 9033e43263322092491e16b5cc975eb524edb94a, IP/Port: 31.209.16.72:55703)
+										find_node: no reply
+									Node 3 (id: 905b253941849762b4a7ab91084b04efabff45b2, IP/Port: 94.23.242.158:51413)
+										find_node: no reply
+									Node 4 (id: 907af9a5bb5fa45a28060ecae9c233f4146f36d1, IP/Port: 213.133.100.233:51413)
+										find_node: no reply
+									Node 5 (id: 919956d1ecf929f893c154d552e3aa1d864d040a, IP/Port: 95.155.245.251:51413)
+										find_node: no reply
+									Node 6 (id: 9118a24f65f004c68aac49c305ff074d70ee8e44, IP/Port: 92.251.25.233:51413)
+										find_node: no reply
+									Node 7 (id: 910d9c30d27e31dbda6732bc33b526ef5cdb8138, IP/Port: 176.46.227.28:61953)
+										find_node: no reply
+									Node 8 (id: 917568094df8a77a3a001ea60f2cf4e841b5defe, IP/Port: 85.11.110.91:9089)
+										find_node:
+											Node 1 (id: 9006348843aa10993f37c4314ed6e894f035b889, IP/Port: 217.122.175.71:6881)
+												xx
+											Node 2 (id: 903085cd112939e18adb9015cf10b3b7745b3178, IP/Port: 188.143.80.202:58982)
+												xx
+											Node 3 (id: 907559d6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 104.34.6.89:57607)
+												xx
+											Node 4 (id: 904689a1698973c4d0217f63f1053e26e4bea3ac, IP/Port: 24.207.205.38:44104)
+												xx
+											Node 5 (id: 900b62a06c1a0db0ff6085ae1b09d038793d8753, IP/Port: 68.104.21.77:18133)
+												xx
+											Node 6 (id: 901502739a70b2d7d172803bb91bc50c5808bddc, IP/Port: 107.181.178.169:63144)
+												find_node:
+													Node 1 (id: 90d237c2cdfea7766ced7ea1201538dab3e9e686, IP/Port: 194.177.60.9:64329)
+														find_node:
+															Node 1 (id: 909e4794d96d2fc6ab015129dfdcf7ef0792a2cf, IP/Port: 188.115.44.224:44708)
+															Node 2 (id: 9098e89e5c5b84d96114095048d8b29f0fcfd298, IP/Port: 81.206.78.41:6881)
+															Node 3 (id: 9087385600c10a43c776f4d82d45b4887102400a, IP/Port: 88.134.82.120:6881)
+															Node 4 (id: 90873b3f537ef03f61f34f1d3bdf7e8cfbcd91e3, IP/Port: 86.82.207.235:10001)
+															Node 5 (id: 90849fb3ac022a6af61a423f5d70e4b2349a961c, IP/Port: 86.98.65.232:11212)
+															Node 6 (id: 90b4cfaea49f04fc25b0e54fe8ec047415e82fdd, IP/Port: 64.138.239.7:6881)
+															Node 7 (id: 90b025e2ddcc0d0908a5b1d4c5513fb2d954bf94, IP/Port: 88.120.99.154:28740)
+															Node 8 (id: 90a6c6d6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 86.88.128.234:49646)
+														find_node:
+															Node 1 (id: 03ba8a380a41f4c26b7587e7fcefd3f821d26935, IP/Port: 31.134.138.4:50972)
+															Node 2 (id: 05e3e9298a5df482bbc1c9a9adb97cae404f7a12, IP/Port: 185.34.3.149:17328)
+															Node 3 (id: 099d9e8813e9ae7a7ad6a193b0bffbf6c6a6230b, IP/Port: 185.34.3.201:19202)
+															Node 4 (id: 1f6dc350c9ed479970b5f7b5df65364581c580c6, IP/Port: 84.215.181.4:45433)
+															Node 5 (id: 27668269700c379de1b40b806a9abe0da830c97b, IP/Port: 185.34.3.160:21369)
+															Node 6 (id: 3584219cead1d7ff8bcd8843fff0df3c5b4eb4f7, IP/Port: 87.231.175.126:32563)
+															Node 7 (id: 4ae3902d20c3e428726baf1c261d1bb67e432ea6, IP/Port: 185.34.3.189:11339)
+															Node 8 (id: 58e65cd7e7e8adbb8f211823853754467e6a09c2, IP/Port: 2.34.4.116:6881)
+													Node 2 (id: 90e3760aa573dc192915abcdeb77cec619dc0dca, IP/Port: 151.228.101.255:23682)
+														xx
+													Node 3 (id: 90e343d9af2b6d75262b852b492e76a52fc12c12, IP/Port: 73.183.191.60:44284)
+														xx
+													Node 4 (id: 90e532afa494a77171595ba51e55a00fa96dee17, IP/Port: 88.156.50.208:51413)
+														find_node:
+															Node 1 (id: 9095dcc29783c4c002f48e909a556a01c263d3fe, IP/Port: 123.198.191.251:41171)
+															Node 2 (id: 9087cc4af6854583c0ee9b58badca52102844d6b, IP/Port: 82.2.11.118:6881)
+															Node 3 (id: 90855dd8fde4630bcbac4082c96b91120d5d2396, IP/Port: 124.148.162.177:50152)
+															Node 4 (id: 9080ca53f64179db0767502186ab4b19c97b60cf, IP/Port: 80.122.86.6:32768)
+															Node 5 (id: 90bc64ebf32dcf8f222134fdea3eecb189efb8de, IP/Port: 115.64.250.203:6881)
+															Node 6 (id: 90b7befb49c7dfc1018f6bd02da585f710a5d0c6, IP/Port: 77.222.187.218:43498)
+															Node 7 (id: 90b3661f49af0e50c2c42fdc72c372603db84aef, IP/Port: 98.117.192.29:6881)
+															Node 8 (id: 90ac2bb38fcc37c9bf87a34ce3608d57a6d846aa, IP/Port: 70.50.81.125:6881)
+													Node 5 (id: 90e34449f1f1bbe9ebb3a6db3c870c3e99245e52, IP/Port: 185.23.127.60:5350)
+														xx
+													Node 6 (id: 90f796a3c59f8c58f97fcf7f40e7c8b157b84a63, IP/Port: 101.181.30.27:6881)
+														find_node: no reply
+													Node 7 (id: 90a68e4f1c2194ce412e6d00fa02232c2af69d70, IP/Port: 128.204.8.57:57367)
+														find_node: no reply
+													Node 8 (id: 90b7e5775f00bf9023c57d726a6b5ba3b148e8ae, IP/Port: 180.94.152.251:57335)
+														find_node: no reply
+												find_node:
+													Node 1 (id: 0b455e9ee6e5ee9e079c1b7904a48fac53bd1b5d, IP/Port: 37.123.189.221:45591)
+														find_node:
+															Node 1 (id: 0369d3ed48a3f8b86af137c142d48e03e9d2f66d, IP/Port: 89.168.19.32:61692)
+															Node 2 (id: 036825fa8cc27f2d81da19561dc680af992f4041, IP/Port: 37.220.35.69:6881)
+															Node 3 (id: 03450d3a9975e5bd2ea0eb55ad8e1b199e3e8df9, IP/Port: 122.100.187.67:16001)
+															Node 4 (id: 0381b8f2d3f107688ac5df25c8eefc4154e48796, IP/Port: 1.161.60.213:7236)
+															Node 5 (id: 0383acadae6253c83d4c059854b312f5fbcae997, IP/Port: 78.70.48.42:33429)
+															Node 6 (id: 06b63bee4e530415ae0f7bf8492fe603923ccfc8, IP/Port: 46.162.68.232:60802)
+															Node 7 (id: 07b55f34359fbfa69d9f79ea82d3bbff068c6c3b, IP/Port: 188.37.240.239:50079)
+															Node 8 (id: 0441298f31556e088033ddfa0916349fc7f3647b, IP/Port: 71.197.146.112:6881)
+														find_node:
+															Node 1 (id: 8848976d82f2042c45ac63df98c245b70b191027, IP/Port: 185.34.3.171:21390)
+																dup
+															Node 2 (id: 84688b7a1d261b8ca6922c402db42fc47fbc8318, IP/Port: 207.244.80.233:63406)
+															Node 3 (id: ab461a58e93685650b3a79cc513562bac84becc4, IP/Port: 88.95.124.63:29074)
+															Node 4 (id: d8813613f6f41ccbea9ec9d7edf0f142b889578c, IP/Port: 217.27.182.10:17160)
+															Node 5 (id: dda29796d89712f0447f4e8094e4ce7a7e9afb5e, IP/Port: 185.34.3.201:19169)
+															Node 6 (id: ebff36697351ff4aec29cdbaabf2fbe3467cc267, IP/Port: 82.221.103.244:6881)
+															Node 7 (id: e706d27be5d241c3a33a68c4911798da0031e71d, IP/Port: 93.89.49.177:6881)
+															Node 8 (id: f2e6c7f9dd7003ef1e84e65ada36b0188fcfed32, IP/Port: 88.123.76.148:30295)
+													Node 2 (id: 4a178d2c3e8725365eec9f8c4649e2f8972b5be0, IP/Port: 67.229.128.82:22222)
+														xx
+													Node 3 (id: 7eb4692fa66e8d77b0efca915d5e7c2185c0a1be, IP/Port: 121.208.39.251:6881)
+														xx
+													Node 4 (id: 4289eb88ba85b17678f1bab4f31f914928e83d5e, IP/Port: 83.168.82.163:34095)
+														xx
+													Node 5 (id: 7be0e8984adb81866a9e50dbce4ed4dc606af944, IP/Port: 188.68.221.0:6881)
+														xx
+													Node 6 (id: 768a406323edf441b3afba490660e240fbbe3f91, IP/Port: 74.105.102.167:6346)
+														xx
+													Node 7 (id: 77cc631048de9b68e0611e0f5c00c8b032397dde, IP/Port: 73.192.206.11:6881)
+														xx
+													Node 8 (id: 10e404d6f79569d50878b839277dcbe3bf2f8803, IP/Port: 146.185.10.30:49820)
+														find_node: no reply
+												find_node:
+													Node 1 (id: 901506bbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 177.42.47.141:18277)
+														find_node: no reply
+													Node 2 (id: 901504bd97e93f8d2589c6fff5e58c63e6f5f6c6, IP/Port: 81.147.92.137:52054)	
+														find_node: no reply
+													Node 3 (id: 901504469ab72aa5dd44dbd05f06739fbad8f92b, IP/Port: 80.56.118.222:62348)
+														find_node:
+															Node 1 (id: 901502739a70b2d7d172803bb91bc50c5808bddc, IP/Port: 107.181.178.169:63144)
+															Node 2 (id: 901501c649df717bd64081085958bfbd9fb3675a, IP/Port: 222.117.63.251:52461)
+															Node 3 (id: 9015019c0e555138e502d5d2f54bfbc28d6c8644, IP/Port: 108.86.85.200:57086)
+															Node 4 (id: 90140849f1f1bbe9ebb3a6db3c870c3e99245e52, IP/Port: 93.146.23.134:41727)
+															Node 5 (id: 90143d49f1f1bbe9ebb3a6db3c870c3e99245e52, IP/Port: 189.103.75.146:45102)
+															Node 6 (id: 90146ec38905fb9bb9c143aa8dd749d06124749f, IP/Port: 115.230.221.56:8269)
+															Node 7 (id: 901475fc04205fb90d29500ce4bacf04b530ed8d, IP/Port: 68.103.77.32:41822)
+															Node 8 (id: 9014a4c90fafa4100b13364f5ef088e505db9b02, IP/Port: 79.170.54.238:43790)
+														find_node:
+															Node 1 (id: 1c2918d5c347d43dffe586894691a853804d65ec, IP/Port: 178.45.252.89:53116)
+															Node 2 (id: 2905184692736ae683065224b820739ec605d6fd, IP/Port: 95.86.204.166:41111)
+															Node 3 (id: 2caebd0a651e87bd38214e3e7d425b0594f1af2f, IP/Port: 73.181.249.115:50199)
+															Node 4 (id: 32f54e697351ff4aec29cdbaabf2fbe3467cc267, IP/Port: 67.215.246.10:6881)
+															Node 5 (id: 401845b002ac5c2cff3161d4946b488b3dcb135d, IP/Port: 5.135.181.60:51413)
+															Node 6 (id: 61e8f9d2afadbeadec23b4e6d8e3ae3b0c98e0be, IP/Port: 109.174.29.14:63083)
+															Node 7 (id: 73c48ed96a6b609a9fe98a01f758f62b6c32d4f1, IP/Port: 182.55.250.226:6881)
+															Node 8 (id: 7714b64a4ad0576876fa16bb11adae248879fed4, IP/Port: 217.66.157.0:11128)
+													Node 4 (id: 90150abfc566ae6536313849b780d2d44a70f344, IP/Port: 173.66.219.204:6881)
+														find_node:
+															Node 1 (id: 901502739a70b2d7d172803bb91bc50c5808bddc, IP/Port: 107.181.178.169:63144)
+															Node 2 (id: 901504bd97e93f8d2589c6fff5e58c63e6f5f6c6, IP/Port: 81.147.92.137:52054)
+															Node 3 (id: 901504469ab72aa5dd44dbd05f06739fbad8f92b, IP/Port: 80.56.118.222:62348)
+															Node 4 (id: 90150db8864f23b348540c5ef267ee5e2edeaacb, IP/Port: 178.166.122.206:6881)
+															Node 5 (id: 90150ea61295aac1e9d7d0cf81098311e69cc6eb, IP/Port: 73.187.40.200:56998)
+															Node 6 (id: 90150c36c16c7761f10b4c0bbc8d596858e41b74, IP/Port: 105.98.91.204:12885)
+															Node 7 (id: 901509eb44ed0202fa1bcce9b3def361c1966cc3, IP/Port: 217.123.40.200:1074)
+															Node 8 (id: 90151855f9793e3ebab31da2fbfeb50c5ed678b5, IP/Port: 112.164.240.39:65464)
+													Node 5 (id: 901509eb44ed0202fa1bcce9b3def361c1966cc3, IP/Port: 217.123.40.200:1074)
+														find_node:
+															Node 1 (id: 901502739a70b2d7d172803bb91bc50c5808bddc, IP/Port: 107.181.178.169:63144)
+															Node 2 (id: 9015020413b3dd18c377cc56069103cf8aed5829, IP/Port: 99.140.105.90:40414)
+															Node 3 (id: 90150102c2b98a9663cb441fae572c052a8afb56, IP/Port: 101.99.220.137:40577)
+															Node 4 (id: 901506bbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 177.42.47.141:18277)
+															Node 5 (id: 9015073fff7dcfa8ffb548904385071e8721ba41, IP/Port: 63.172.41.90:1488)
+															Node 6 (id: 901504469ab72aa5dd44dbd05f06739fbad8f92b, IP/Port: 80.56.118.222:62348)
+															Node 7 (id: 901504efeed971384acac5b42ca637805fc92b81, IP/Port: 87.76.41.90:39280)
+															Node 8 (id: 9015058a38bd31bd950679bd47180af61c5b3bb6, IP/Port: 201.51.220.137:38744)
+														find_node:
+															Node 1 (id: 0260f456f4236dae7e2e0a924a82c8e66dca8336, IP/Port: 185.74.221.103:8064)
+																dup
+															Node 2 (id: 03f06fd059185faba250b87b48391bd19e22df51, IP/Port: 5.79.74.214:6881)
+																dup
+															Node 3 (id: 006222265759bc9c6aec57ecb4a3541f50e448a0, IP/Port: 92.15.60.89:64039)
+															Node 4 (id: 010bad01b26273bf18db93c8f74bd90fecef290f, IP/Port: 185.74.221.98:7824)
+															Node 5 (id: 06b700ac4d30669736b0720d476bb90b14f19efd, IP/Port: 2.216.213.142:49940)
+															Node 6 (id: 076d53992389b6beecbf9daf64b7d8dd878ae7f0, IP/Port: 77.106.92.121:18619)
+															Node 7 (id: 04b58991fca5a1b58c3d39097af8be99b2dbaf95, IP/Port: 95.66.227.29:20225)
+															Node 8 (id: 0588bf88ac2341d42834fec2629d89619aa9c138, IP/Port: 37.187.100.143:6881)
+													Node 6 (id: 90150ea61295aac1e9d7d0cf81098311e69cc6eb, IP/Port: 73.187.40.200:56998)
+														find_node: no reply
+													Node 7 (id: 90150c36c16c7761f10b4c0bbc8d596858e41b74, IP/Port: 105.98.91.204:12885)
+														find_node: no reply
+													Node 8 (id: 90150db8864f23b348540c5ef267ee5e2edeaacb, IP/Port: 178.166.122.206:6881)
+														find_node: no reply
+												find_node:
+													Node 1 (id: 0b455e9ee6e5ee9e079c1b7904a48fac53bd1b5d, IP/Port: 37.123.189.221:45591)
+														dup
+													Node 2 (id: 4a178d2c3e8725365eec9f8c4649e2f8972b5be0, IP/Port: 67.229.128.82:22222)
+														dup
+													Node 3 (id: 7eb4692fa66e8d77b0efca915d5e7c2185c0a1be, IP/Port: 121.208.39.251:6881)
+														dup
+													Node 4 (id: 4289eb88ba85b17678f1bab4f31f914928e83d5e, IP/Port: 83.168.82.163:34095)
+														dup
+													Node 5 (id: 7be0e8984adb81866a9e50dbce4ed4dc606af944, IP/Port: 188.68.221.0:6881)
+														dup
+													Node 6 (id: 768a406323edf441b3afba490660e240fbbe3f91, IP/Port: 74.105.102.167:6346)
+														dup
+													Node 7 (id: 77cc631048de9b68e0611e0f5c00c8b032397dde, IP/Port: 73.192.206.11:6881)
+														dup
+													Node 8 (id: 10e404d6f79569d50878b839277dcbe3bf2f8803, IP/Port: 146.185.10.30:49820)
+														dup
+											Node 7 (id: 905021377786bab1a9437a5bc17edb08f33b1eec, IP/Port: 173.255.226.138:51413)
+												xx
+											Node 8 (id: 904f0a08f354902697aa506d618a9279437c40b7, IP/Port: 109.230.237.15:51413)
+												xx
+							Node 2 (id: 927439e3e94c4bb1ddd6a86333753579b2f46bb1, IP/Port: 46.144.159.149:56143)
+								find_node: no reply
+							Node 3 (id: 93d4019cf3f686fb5d6477b6bfc30a3004249d9d, IP/Port: 124.176.149.124:22210)
+								find_node: no reply
+							Node 4 (id: 94ca222c745a35f2c24ca2760403ac529213bc4e, IP/Port: 223.134.239.117:6881)
+								find_node:
+									Node 1 (id: 921c6bbbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 87.97.216.25:28835)
+										xx
+									Node 2 (id: 92a4bed6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 27.35.53.250:54098)
+										xx
+									Node 3 (id: 92cde85dcc79b79eae2017bbe41c87838d633459, IP/Port: 87.254.142.99:43672)
+										xx
+									Node 4 (id: 9353d1db83952d91774abdb4a2d0630ecf455bba, IP/Port: 188.165.225.138:6881)
+										xx
+									Node 5 (id: 91f3d1766bc6b5d5db06801098ca864b3f0774fa, IP/Port: 95.68.128.204:34183)
+										xx
+									Node 6 (id: 91f276d6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 37.228.89.175:20473)
+										xx
+									Node 7 (id: 92b508184a44902e3e00d9252c04a961b1033774, IP/Port: 117.239.209.5:46385)
+										xx
+									Node 8 (id: 90e62b15641018c8326a4419aed2f4c89ba8433c, IP/Port: 89.110.59.118:52703)
+										xx
+							Node 5 (id: 98aa4517ff03f0af917d350364d4026b00be41fc, IP/Port: 24.121.165.141:15932)
+								xx
+							Node 6 (id: 9ad95c3ab307a03d9bf201f39ee4b0378ac7f4dd, IP/Port: 185.34.3.160:21367)
+								dup
+							Node 7 (id: 9a22edc7d5cef532db2fbcc38fd7e9f46767115d, IP/Port: 120.150.87.158:6881)
+								xx
+							Node 8 (id: 9eb56493aea0243eab4d836a833b23017e67b5a4, IP/Port: 185.34.3.137:3686)
+								xx
+					Node 5 (id: 878aea7591aa34887ea21066622feed84856e600, IP/Port: 176.63.29.116:13065)
+						xx
+					Node 6 (id: 87c0e2db9105aefab92b26dac91481d2139be392, IP/Port: 80.7.157.108:6881)
+						xx
+					Node 7 (id: 87029cc94d8540d7ec939b7a28b10916e505adab, IP/Port: 90.191.79.149:10598)
+						xx
+					Node 8 (id: 8b20747f22218809504b22649dbcf9842f3c763e, IP/Port: 217.122.228.9:6881)
+						xx
+				find_node:
+					Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81729, IP/Port: 208.103.122.169:5000)
+						find_node: no reply
+					Node 2 (id: afbe9aaad667979da7a8734e129e05a580735729, IP/Port: 45.33.52.220:6882)
+						find_node: no reply
+					Node 3 (id: afbe98d545415a163b6edda5820038ab6b90e659, IP/Port: 27.87.125.100:23690)
+						find_node: 
+							Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+								dup
+							Node 2 (id: afbe9baaec9f0f7eacbd3b2d8a73aa4dc691fb96, IP/Port: 68.116.5.134:17928)
+								find_node:
+									Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+										dup
+									Node 2 (id: 8245575ff791a25b64d24d8d0e9a1cc64ad41b4c, IP/Port: 192.241.225.195:51413)
+										dup
+									Node 3 (id: afbe98d545415a163b6edda5820038ab6b90e659, IP/Port: 27.87.125.100:23690)
+										dup
+							Node 3 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:3204)
+								dup
+							Node 4 (id: afbe99aae5e346b49a894817752a0fff4270738e, IP/Port: 217.120.136.183:10521)
+								dup
+							Node 5 (id: afbe9d8ef81aa1f78a282383dba82b600afeaa21, IP/Port: 111.199.253.100:7745)
+								dup
+							Node 6 (id: afbeba6753ce0b0e1c06c8a25afd1f1ff7bef918, IP/Port: 46.5.19.29:32390)
+								find_node: no reply
+							Node 7 (id: afbebc80afe080baac234ae1e7aa5137e3f8dd4f, IP/Port: 179.209.232.191:27050)
+								find_node: no reply
+							Node 8 (id: afbeb349f1f1bbe9ebb3a6db3c870c3e99245e52, IP/Port: 181.47.26.41:1407)
+								find_node:
+									Node 1 (id: afbe98856ca810b0b7a0d691b9ec439be8b32ec1, IP/Port: 200.86.94.119:61057)
+										find_node: no reply
+									Node 2 (id: afbe9ebbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 68.116.5.134:28159)
+										dup
+									Node 3 (id: afbe9384d11a6502dcacd7718127650e1a5148b4, IP/Port: 207.47.137.37:50038)
+										find_node:
+											Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+												dup
+											Node 2 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:28159)
+												dup
+											Node 3 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:3204)
+												dup
+											Node 4 (id: afbe9842df6de5496a9a6d194cf77a216b232349, IP/Port: 85.81.251.179:55642)
+												find_node: no reply
+											Node 5 (id: afbe9842df6de5496a9a6d194cf77a216b232349, IP/Port: 85.81.251.179:58407)
+												find_node: no reply
+											Node 6 (id: afbe99aae5e346b49a894817752a0fff4270738e, IP/Port: 217.120.136.183:10521)
+												dup
+											Node 7 (id: afbe9f83cf90d14946ec6d4677990bb2ab712001, IP/Port: 211.1.214.72:6882)
+												find_node: no reply
+											Node 8 (id: afbe9d8ef81aa1f78a282383dba82b600afeaa21, IP/Port: 111.199.253.100:7745)
+												dup
+									Node 4 (id: afbe9725f7df7f4bd0b3223ea4746b04ad8203dc, IP/Port: 189.25.143.242:10140)
+										find_node:
+											Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+												dup
+											Node 2 (id: afbe9baaec9f0f7eacbd3b2d8a73aa4dc691fb96, IP/Port: 68.116.5.134:17928)
+												dup
+											Node 3 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:3204)
+												dup
+											Node 4 (id: afbe98d545415a163b6edda5820038ab6b90e659, IP/Port: 27.87.125.100:23690)
+												dup
+											Node 5 (id: afbe99aae5e346b49a894817752a0fff4270738e, IP/Port: 217.120.136.183:10521)
+												dup
+											Node 6 (id: afbe9ebbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 68.116.5.134:28159)
+												dup
+											Node 7 (id: afbe9ff45287798a2444b6d05dbc6b6895483099, IP/Port: 183.151.61.100:6881)
+												find_node: no reply
+											Node 8 (id: afbe9d8ef81aa1f78a282383dba82b600afeaa21, IP/Port: 111.199.253.100:7745)
+												dup
+										find_node:
+											Node 1 (id: 024c24685b7d61474322a40fe9964509288d97d8, IP/Port: 52.4.220.217:55070)
+												find_node: no reply
+											Node 2 (id: 038b33d149cffced2afc1359c7a337838fdf2b06, IP/Port: 5.9.157.150:6881)
+												find_node: no reply
+											Node 3 (id: 005710192650d4757869973d2f5ac6ecaa935b74, IP/Port: 89.178.89.73:42032)
+												find_node:
+													Node 1 (id: 02005ef3984cf6980436f0c18114945f4eff2514, IP/Port: 85.234.59.58:34917)
+														find_node: no reply
+													Node 2 (id: 0260f456f4236dae7e2e0a924a82c8e66dca8336, IP/Port: 185.74.221.103:8064)
+														find_node: no reply
+													Node 3 (id: 02a7f3ff5535b150c413e205a1785582196e8fd8, IP/Port: 5.129.246.190:15574)
+														xx
+													Node 4 (id: 02d27142fce8b4bff6a900c3566f508f2ecc9860, IP/Port: 185.74.221.77:7781)	
+														xx
+													Node 5 (id: 033bdb118e785bfca07c4206141845304be6fe7d, IP/Port: 173.183.79.174:21452)
+														xx
+													Node 6 (id: 03525c27618fadb9fa2b1a99b28a7561d10a1090, IP/Port: 94.3.164.223:6881)
+														xx
+													Node 7 (id: 03b018b985b89bb6b09e03c98d18652f0478fd72, IP/Port: 185.21.216.139:6881)
+														xx
+													Node 8 (id: 03f06fd059185faba250b87b48391bd19e22df51, IP/Port: 5.79.74.214:6881)
+														xx
+											Node 4 (id: 0142c8a6030921b55104adb47988a113c637f63a, IP/Port: 62.210.239.26:51413)
+												find_node:
+													Node 1 (id: 023b1469b03abcc94dcd3757e200c3c956da0dc9, IP/Port: 31.209.28.185:6881)
+														find_node: no reply
+													Node 2 (id: 026b51d60c664b46786d660a8a2e94c2544744d8, IP/Port: 59.125.10.144:6881)
+														find_node:
+															Node 1 (id: 0227bbaecf05eee909c167a33f85fe2cf997dd2d, IP/Port: 95.211.137.207:6881)
+															Node 2 (id: 020a9a591cbd4fab0d77b7f008678bcbb9d2091b, IP/Port: 78.228.80.168:59365)
+															Node 3 (id: 02137771331a5bc5c5aedda2a71b18ec2d5b938d, IP/Port: 194.177.60.9:64062)
+															Node 4 (id: 021cfeb0df540c292d62edcadcc94684cdfc775a, IP/Port: 78.234.212.226:22446)
+															Node 5 (id: 021f2bc7cb1dae4678d3dbda832f67ac9a98bd52, IP/Port: 31.211.187.87:6882)
+															Node 6 (id: 0228eb87f9837b9459e5f4569e370d1c248dbe11, IP/Port: 124.219.213.208:6881)
+															Node 7 (id: 02194eb22d2391c0e949c45abf6d98bfeb8a5279, IP/Port: 67.86.130.246:6881)
+															Node 8 (id: 021fa3ed79e1b583e93410b5ce5865b0299fd04f, IP/Port: 88.90.197.31:56563)
+													Node 3 (id: 029c8f0c49afa86764ebe1026a50a06bcd313a75, IP/Port: 203.73.93.140:8841)
+														xx
+													Node 4 (id: 030fcc61d7a284f92f200559b9bc36845a796972, IP/Port: 81.226.31.60:47999)
+														xx
+													Node 5 (id: 03b5585c3d6342eb346de311f1b6611f045ed8fc, IP/Port: 84.195.234.51:6881)
+														xx
+													Node 6 (id: 03a8798d3460f73c381986c544b655ef8803c371, IP/Port: 92.221.107.238:3950)
+														xx
+													Node 7 (id: 038f7c77e3ccef2f826bfbe7dfb06fd873247fa6, IP/Port: 185.34.3.171:21357)
+														xx
+													Node 8 (id: 03f22c5a9f7381beda885358f91ca300dc1abe52, IP/Port: 92.206.8.189:6881)
+														xx
+											Node 5 (id: 063a0ea1ce86d302e4dd467d31ff070a5a4dfd29, IP/Port: 84.251.41.56:21440)
+												xx
+											Node 6 (id: 07a4788809e19375f11574ec97fc1d821650bdf2, IP/Port: 108.59.9.199:6881)
+												xx
+											Node 7 (id: 0418f27829d8b3daea1e8a9d11a25283def47194, IP/Port: 83.139.146.116:1411)
+												xx
+											Node 8 (id: 05dc681f5d551da4f4d7e885e89f755434180d5f, IP/Port: 199.19.95.75:51413)
+												xx
+									Node 5 (id: afbe8b3cd25cb1f750268d83dd2984a0095dac81, IP/Port: 189.4.16.175:24874)
+										find_node: no reply
+									Node 6 (id: afbe8fa1bbd1bf2f18a991772d616f49346db3f1, IP/Port: 93.222.49.202:6881)
+										find_node: no reply
+									Node 7 (id: afbe805693ae9916133240c848f02ccd22e8f3fa, IP/Port: 111.92.128.234:13202)
+										find_node: no reply
+									Node 8 (id: afbe849082403adabd7fe8ca423633e05b174fc2, IP/Port: 37.106.198.61:22042)
+										find_node: no reply
+								find_node:
+									Node 1 (id: 0227bbaecf05eee909c167a33f85fe2cf997dd2d, IP/Port: 95.211.137.207:6881)
+										find_node: no reply
+									Node 2 (id: 03b953bf5a4158df56813b8c904bb2e779de5034, IP/Port: 79.136.252.195:38343)
+										find_node: no reply
+									Node 3 (id: 0062937b47948d34fa2bfd846de3dc1085a3c447, IP/Port: 203.213.31.36:16799)
+										find_node: no reply
+									Node 4 (id: 016abce026951674a9c19beeb91ee03960530e7d, IP/Port: 78.198.165.98:6881)
+										find_node: no reply
+									Node 5 (id: 06541a2ee864e4e0e5fb0856b03ed28b41fd9af2, IP/Port: 83.249.226.153:24875)
+										xx
+									Node 6 (id: 07b26d1d1e61b58cfd7b8025881637a559f7de7e, IP/Port: 88.174.85.141:33828)
+										xx
+									Node 7 (id: 041a414a507f9bff96ba07a52d9ea2415283320b, IP/Port: 87.95.80.209:25747)
+										xx
+									Node 8 (id: 05b6aaccb43a4bb5c2a73f1ea8bd37ab9734c665, IP/Port: 95.211.210.136:6881)
+										xx
+					Node 4 (id: afbe99aae5e346b49a894817752a0fff4270738e, IP/Port: 217.120.136.183:10521)
+						find_node: 
+							Node 1 (id: afbe9aaad667979da7a88558fca9ac52c7c81728, IP/Port: 185.34.3.160:17324)
+								dup
+							Node 2 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:3204)
+								dup
+							Node 3 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 177.33.59.179:32527)
+								find_node: no reply
+							Node 4 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:64133)
+								dup
+							Node 5 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 68.116.5.134:28159)
+								dup
+							Node 6 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 212.178.135.62:3399)
+								xx
+							Node 7 (id: afbe9bd6ae529049f1f1bbe9ebb3a6db3c870ce1, IP/Port: 50.206.89.77:11558)
+								xx
+							Node 8 (id: afbe9ebbe9ebb3a6db3c870c3e99245e0d1c06f1, IP/Port: 68.116.5.134:28159)
+								dup
+					Node 5 (id: afbe9d8ef81aa1f78a282383dba82b600afeaa21, IP/Port: 111.199.253.100:7745)
+						find_node: no reply
+		get_peers:
+			Node 1 (id: c1a694fcecf99272a49cae736e862456fea534f9, IP/Port: 95.211.81.153:6881)
+				get_peers: no reply
+		get_peers:
+			Node 1 (id: ebe1ae82ea9892892249aee25052194d470b598f, IP/Port: 81.9.31.37:36111)
+				get_peers:
+					Node 1 (id: 167ecf5076a2b46a79e9304b168f05b6568c1d71, IP/Port: 109.225.220.173:36147)
+						get_peers: no reply
+					Node 2 (id: 17b065f2d774be478fc135d574f957a676f3077d, IP/Port: 188.227.77.38:52189)
+						get_peers: no reply
+					Node 3 (id: 149ecc77101642f75922aa58ac0a95f015759b97, IP/Port: 92.246.21.34:62444)
+						get_peers: 
+							Node 1 (id: 161c4b7fdda1ebb90200aa2ec978189f7e760076, IP/Port: 80.167.143.244:15684)
+								get_peers:
+									Node 1 (id: 16199cd866ce92bf7b6b5db3e0bc2b476993931e, IP/Port: 174.21.35.25:34340)
+										get_peers: no reply
+									Node 2 (id: 1619000b0c1f9ee84f1bd46dff8d08fb93192c10, IP/Port: 120.149.181.36:51413)
+										get_peers: no reply
+									Node 3 (id: 1618f11ccb5d69af4c7c0453f41bdaa55c514c60, IP/Port: 176.31.119.125:51413)
+										get_peers: no reply
+									Node 4 (id: 161849b54c119a220ef2bcabed2bd070d601d74e, IP/Port: 74.98.185.11:53373)
+										get_peers: no reply
+									Node 5 (id: 161beb2b8dbc5f5584b41d66ab6fa004a356ba86, IP/Port: 178.236.141.47:35691)
+										get_peers:
+											Node 1 (id: 1619e1b60919b09e1d6c9931728db319f5b3aab8, IP/Port: 78.193.61.42:6881)
+												get_peers: no reply
+											Node 2 (id: 1619a5e87ef02d28d1fb428cfcacd03d190dcc44, IP/Port: 66.177.248.72:22451)
+												get_peers:
+													Node 1 (id: 1619e979fde7b9c6824fd8a384c63c5aed20b932, IP/Port: 178.61.21.187:57060)
+														get_peers:
+															Node 1 (id: 1619ec780358fbda0938ad0ef26165ba9c81a9f2, IP/Port: 118.173.21.187:6881)
+															Node 2 (id: 1619ec1fd1318984d6ba4b99b901f5ec75610a3a, IP/Port: 218.173.149.187:1463)
+															Node 3 (id: 1619edda45f1d83896c23d6e31912ab34aba5325, IP/Port: 82.132.231.113:57942)
+															Node 4 (id: 1619ed3f0a3e53b3a9b43b61aad2c26bf8e3d81d, IP/Port: 196.210.160.104:10193)
+															Node 5 (id: 1619eecb9c5ae61a61252490a595a6f90394885d, IP/Port: 82.132.230.244:49604)
+															Node 6 (id: 1619ee92db28da58b9b66445fe25fa151ea6e6bd, IP/Port: 82.132.230.244:50307)
+															Node 7 (id: 1619ee1b618064e707a04f382ad1da3d3a48f46d, IP/Port: 79.21.3.204:17377)
+															Node 8 (id: 1619ef47bc9f67274ca475e2ae04017b6b76f405, IP/Port: 60.242.32.104:51324)
+															Peer 1 ...
+															...
+															Peer 100 ...
+													Node 2 (id: 1619e535ceaa1117c528a860036938fa95d1e3d8, IP/Port: 88.122.84.41:23013)
+														get_peers: no reply
+													Node 3 (id: 1619f8779b091ef1b279f635c1f3ce1626ef9474, IP/Port: 188.24.90.163:63740)
+														get_peers: no reply
+													Node 4 (id: 1619f45d4e12ae1178ffe3c0be74f47df9b1b1a1, IP/Port: 80.192.110.226:44346)
+														get_peers: no reply
+													Node 5 (id: 1619c9abdf19df5ce8ecd27dd862dd51b8eff673, IP/Port: 86.18.243.100:20971)
+														xx
+													Node 6 (id: 1619c53821380b0050c8ff9b2f008e08b26f98ce, IP/Port: 122.85.60.241:8675)
+														xx
+													Node 7 (id: 1619db63b5c570f0e61408c22678c603295f4ec2, IP/Port: 62.76.24.209:33761)
+														xx
+													Node 8 (id: 1619d193306bf74d4c793e7c57d9212cdc1d9f08, IP/Port: 82.221.103.244:6881)
+														xx
+													Peer 1 (IP/Port: 187.113.36.133:41756)
+														xx
+													Peer 2 (IP/Port: 82.227.245.39:33324)
+														???
+													Peer 3 (IP/Port: 82.246.162.2:18491)
+														--> Handshake
+													Peer 4 (IP/Port: 178.33.122.167:32660)
+														xx
+													Peer 5 (IP/Port: 131.100.191.204:24140)
+														xx
+													Peer 6 (IP/Port: 79.120.164.122:52502)
+														???
+													Peer 7 (IP/Port: 189.114.229.139:16883)
+														xx
+													Peer 8 (IP/Port: 186.235.237.58:1163)
+													Peer 9 (IP/Port: 88.160.205.108:34490)
+													Peer 10 (IP/Port: 78.227.120.245:24559)
+													Peer 11 (IP/Port: 201.9.100.0:4041)
+													Peer 12 (IP/Port: 87.220.69.95:27795)
+													Peer 13 (IP/Port: 179.197.0.222:11680)
+													Peer 14 (IP/Port: 88.167.1.174:33518)
+													Peer 15 (IP/Port: 24.181.162.53:49252)
+													Peer 16 (IP/Port: 187.18.130.127:19026)
+													Peer 17 (IP/Port: 37.24.151.183:6881)
+											Node 3 (id: 16197333ce688cb71f209f08cc76c851e784c592, IP/Port: 188.32.40.199:55048)
+												get_peers:
+													Node 1 (id: 1619e535ceaa1117c528a860036938fa95d1e3d8, IP/Port: 88.122.84.41:23013)
+													Node 2 (id: 1619fecf0bce15c1a7e35aa132fe0db7a5ca80f4, IP/Port: 188.24.90.163:63740)
+													Node 3 (id: 1619c9abdf19df5ce8ecd27dd862dd51b8eff673, IP/Port: 86.18.243.100:20971)
+													Node 4 (id: 1619db63b5c570f0e61408c22678c603295f4ec2, IP/Port: 62.76.24.209:33761)
+													Node 5 (id: 1619a39442778fd060eef969550be9028ba5aa7b, IP/Port: 24.126.13.155:41377)
+													Node 6 (id: 1619ba6f323f546a78cb81f0188ff832b5963aa7, IP/Port: 84.124.195.17:6881)
+													Node 7 (id: 1619844bda025d1073e4e595bb0aee2e3f05048e, IP/Port: 78.46.103.11:39653)
+													Node 8 (id: 16199cd866ce92bf7b6b5db3e0bc2b476993931e, IP/Port: 174.21.35.25:34340)
+													Peer 1 (IP/Port: 93.173.54.63:47229)
+													Peer 2 (IP/Port: 78.227.120.245:24559)
+													Peer 3 (IP/Port: 109.222.68.229:26603)
+													Peer 4 (IP/Port: 220.130.45.251:23928)
+													Peer 5 (IP/Port: 82.227.245.39:33324)
+													Peer 6 (IP/Port: 201.9.100.0:4041)
+													Peer 7 (IP/Port: 85.26.164.44:40806)
+													Peer 8 (IP/Port: 82.246.162.2:18491)
+													Peer 9 (IP/Port: 88.167.1.174:33518)
+													Peer 10 (IP/Port: 172.9.201.145:41938)
+													Peer 11 (IP/Port: 183.195.121.70:13940)
+													Peer 12 (IP/Port: 5.141.192.10:61303)
+													Peer 13 (IP/Port: 88.160.205.108:34490)
+													Peer 14 (IP/Port: 178.33.122.167:32660)
+													Peer 15 (IP/Port: 42.98.55.156:17255)
+													Peer 16 (IP/Port: 111.37.17.133:4452)
+													Peer 17 (IP/Port: 85.26.164.44:27320)
+													Peer 18 (IP/Port: 88.183.220.3:33636)
+													Peer 19 (IP/Port: 195.64.193.77:6881)
+													Peer 20 (IP/Port: 177.40.188.154:62382)
+													Peer 21 (IP/Port: 190.137.11.32:6881)
+													Peer 22 (IP/Port: 37.57.26.156:57944)
+													Peer 23 (IP/Port: 178.217.156.146:6881)
+													Peer 24 (IP/Port: 188.143.47.231:38276)
+													Peer 25 (IP/Port: 202.119.79.5:8111)
+													Peer 26 (IP/Port: 46.172.156.154:40261)
+													Peer 27 (IP/Port: 131.100.191.204:24140)
+													Peer 28 (IP/Port: 188.168.69.112:55881)
+													Peer 29 (IP/Port: 106.39.98.138:13115)
+													Peer 30 (IP/Port: 179.111.180.210:28836)
+													Peer 31 (IP/Port: 187.59.201.238:45859)
+													Peer 32 (IP/Port: 86.61.71.149:42013)
+													Peer 33 (IP/Port: 105.230.246.7:53131)
+													Peer 34 (IP/Port: 177.206.241.60:22285)
+													Peer 35 (IP/Port: 37.115.96.84:44198)
+													Peer 36 (IP/Port: 179.106.144.142:59508)
+													Peer 37 (IP/Port: 89.169.107.119:47378)
+													Peer 38 (IP/Port: 87.117.169.125:21121)
+													Peer 39 (IP/Port: 67.115.125.57:19749)
+													Peer 40 (IP/Port: 189.114.229.139:16883)
+													Peer 41 (IP/Port: 37.24.151.183:6881)
+													Peer 42 (IP/Port: 90.191.175.123:59351)
+													Peer 43 (IP/Port: 190.38.91.170:60490)
+											Node 4 (id: 161936e16cd6ae529049f1f1bbe9ebb3a6db3cbe, IP/Port: 84.29.194.113:41411)
+												xx
+											Node 5 (id: 1618f11ccb5d69af4c7c0453f41bdaa55c514c60, IP/Port: 176.31.119.125:51413)
+												get_peers: no reply
+											Node 6 (id: 16188d4ec6ec36cfcbbf031797c0acf9b7230789, IP/Port: 46.109.115.129:36801)
+												xx
+											Node 7 (id: 16184d0d73e986a4135b8610cc8a829e1b2f09c6, IP/Port: 46.147.7.215:8621)
+												xx
+											Node 8 (id: 16181ec29d0f91b3d0168ab43d80df61b20253ab, IP/Port: 176.195.47.161:6881)
+												xx
+											Peer 1 (IP/Port: 82.227.245.39:33324)
+												???
+											Peer 2 (IP/Port: 88.160.205.108:34490)
+												--> Handshake
+											Peer 3 (IP/Port: 178.33.122.167:32660)
+												xx
+											Peer 4 (IP/Port: 220.130.45.251:23928)
+												xx
+											Peer 5 (IP/Port: 82.246.162.2:18491)
+												--> Handshake
+											Peer 6 (IP/Port: 88.167.1.174:33518)
+												???
+											Peer 7 (IP/Port: 78.227.120.245:24559)
+												???
+											Peer 8 (IP/Port: 87.220.69.95:27795)
+												??????
+											Peer 9 (IP/Port: 37.115.96.84:44198)
+												???
+											Peer 10 (IP/Port: 95.226.122.186:19325)
+												???
+											Peer 11 (IP/Port: 88.183.220.3:33636)
+												???
+									Node 6 (id: 161b5d8e554cb3072278b2c6f419ceb698156455, IP/Port: 72.207.17.201:43431)
+										xx
+									Node 7 (id: 161af10b5ac674546500266674dc85584f29f273, IP/Port: 80.98.187.105:51413)
+										xx
+									Node 8 (id: 161a42bd9d300e21903e7387e103400ec33369af, IP/Port: 188.77.19.9:23653)
+										xx
+									Peer 1 (IP/Port: 178.33.122.167:32660)
+										xx
+									Peer 2 (IP/Port: 88.167.1.174:33518)
+										???
+									Peer 3 (IP/Port: 82.246.162.2:18491)
+										--> Handshake
+									Peer 4 (IP/Port: 88.160.205.108:34490)
+										--> Handshake
+									Peer 5 (IP/Port: 78.227.120.245:24559)
+										???
+									Peer 6 (IP/Port: 82.227.245.39:33324)
+										???
+									Peer 7 (IP/Port: 131.100.191.204:24140)
+										xx
+									Peer 8 (IP/Port: 189.114.229.139:16883)
+										xx
+									Peer 9 (IP/Port: 88.183.220.3:33636)
+										???
+							Node 2 (id: 166b01f0449e4135ef747b9002098d25273289cd, IP/Port: 193.88.76.78:40125)
+								xx
+							Node 3 (id: 16a2d0f236cd396854d34e885f395ff6617492e2, IP/Port: 87.104.207.244:51413)
+								xx
+							Node 4 (id: 16ff32760cbc17521e31fac6197c286a6cf8adeb, IP/Port: 84.31.24.28:9089)
+								xx
+							Node 5 (id: 17224a01634b3bf1fd17a67159a38ed31074f91a, IP/Port: 5.19.245.109:6890)
+								xx
+							Node 6 (id: 177b166d9a716330fb8f1155b81b763ea2754e61, IP/Port: 80.71.132.41:51413)
+								xx
+							Node 7 (id: 17a25f74c0c134de55bb0f20b3420d78f5d0ec69, IP/Port: 5.135.183.109:51413)
+								xx
+							Node 8 (id: 17e4689f346b50ad65053ef59a80c0d40a4769e5, IP/Port: 5.103.224.76:62771)
+								xx
+					Node 4 (id: 15c2321d9346db914351a7b94be6a8f3ce07cf85, IP/Port: 91.121.136.105:15645)
+						get_peers: no reply
+					Node 5 (id: 1255cd4684c30e48b6cc5a6a7f2285adaeed5d08, IP/Port: 178.215.83.24:6704)
+						get_peers: 
+							Node 1 (id: 167ecf5076a2b46a79e9304b168f05b6568c1d71, IP/Port: 109.225.220.173:36147)
+								dup
+							Node 2 (id: 16c86aee7c8b7a62da4f7ee011cb4d99c70a683a, IP/Port: 128.68.133.22:6881)
+								xx
+							Node 3 (id: 176ec37237824a18ad2f6f14dfe0da04b605c3b9, IP/Port: 185.74.221.98:7783)
+								xx
+							Node 4 (id: 17b065f2d774be478fc135d574f957a676f3077d, IP/Port: 188.227.77.38:52189)
+								dup
+							Node 5 (id: 14127a86ca6840d23e43492438c1cceb3fdd240b, IP/Port: 2.120.139.174:39157)
+								xx
+							Node 6 (id: 149a127ec599d5e980b2eac9cc53bf67d6bf142c, IP/Port: 178.252.65.196:44947)
+								xx
+							Node 7 (id: 151c0dfc3363c38492ab08a3aa3ff03f1c55adc5, IP/Port: 93.80.187.191:25528)
+								xx
+							Node 8 (id: 15e2d30db417afa71ee47c0a9a3302c15133f86a, IP/Port: 78.132.207.48:19799)
+								xx
+						find_node:
+							Node 1 (id: b07ccaa99ae8450f8426dd11257d163839f1dc63, IP/Port: 185.21.216.189:6881)
+								find_node: no reply
+							Node 2 (id: b120ce2edbdbb2d9d53ce67a750f933e0505f9d0, IP/Port: 89.169.134.195:57460)
+								find_node: no reply
+							Node 3 (id: b292ee64128ef6d6dc0d21a0df1ce2cb522cbc30, IP/Port: 109.252.68.140:7522)
+								find_node: no reply
+							Node 4 (id: b367d296986f84e68f1b0fdd2332952bd875e282, IP/Port: 37.144.179.154:63435)
+								find_node: no reply
+							Node 5 (id: b4ef22406ee71650d48b6229416ed86e16e519cb, IP/Port: 176.77.22.246:6881)
+								find_node: no reply
+							Node 6 (id: b5db47762560ff27f134b8eba0a0062828778aaa, IP/Port: 176.31.253.221:27032)
+								xx
+							Node 7 (id: b6cb9de2cff450ab3bccfb516e3165f765879a72, IP/Port: 79.111.175.178:6881)
+								xx
+							Node 8 (id: b740da4eb424d8ded877df0bcf582e8c4455696a, IP/Port: 195.9.97.4:53734)
+								xx
+					Node 6 (id: 131b5c0ee36c28a11e201dcbc2033f4107840ff1, IP/Port: 176.14.153.7:20135)
+						xx
+					Node 7 (id: 10186cd9277dfb3d7927ae80d704d9de484c49ae, IP/Port: 94.22.129.53:50001)
+						xx
+					Node 8 (id: 11593b553455e4d0efdb7110c3e30396bba605e3, IP/Port: 176.109.33.219:28599)
+						xx
+		get_peers:
+			Node 1 (id: 406cc03e907e38ebddd99aa93c3176b0951c1145, IP/Port: 188.68.128.3:35737)
+				get_peers: no reply
+	dht.transmissionbt.com: type A, class IN, addr 91.121.59.153
+		get_peers: no reply
+		find_node: no reply
+
